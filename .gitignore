@@ -1,6 +1,9 @@
 # Ignore CSV
 ratings.csv
 
+# Ignore Config
+config.py 
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
